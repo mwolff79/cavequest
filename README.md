@@ -2,17 +2,25 @@
 
 ### Description
 Source reconstructed from original .COM and .000 files. Will compile to
+
 exactly match byte for byte of original.
 
 Original SHA-256
+
 QUEST.COM: c2369d72837f7fb1ab4e1f5dc6a0c36d0d4210a349e9909c4e1601b0d0f44a2a
+
 QUEST.000: 75868e02b2ab9f4d3bb8b5b118a285b730214b85a7c278ce5e7c4c649c068c31
 
+
 ### Tools required / used
-DOSBox-X  2026.08.02, Visual Studio SDL2 64-bit, use config file in Support\
-IBM PC-DOS v2.10, with PAD256.SYS device in Support\
-Borland Turbo Pascal 3.00B
+DOSBox-X  2026.08.02, Visual Studio SDL2 64-bit, use config file in Support.
+
+IBM PC-DOS v2.10, with PAD256.SYS device in Support.
+
+Borland Turbo Pascal 3.00B.
+
 NORMAL.PAS to work around TP3 and system configuration, see Notes below.
+
 
 ### Notes
 #### File offset `$2BBB`
