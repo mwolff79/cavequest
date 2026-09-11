@@ -12,6 +12,7 @@ QUEST.000: 75868e02b2ab9f4d3bb8b5b118a285b730214b85a7c278ce5e7c4c649c068c31
 DOSBox-X  2026.08.02, Visual Studio SDL2 64-bit, use config file in Support\
 IBM PC-DOS v2.10, with PAD256.SYS device in Support\
 Borland Turbo Pascal 3.00B
+NORMAL.PAS to work around TP3 and system configuration, see Notes below.
 
 ### Notes
 #### File offset `$2BBB`
